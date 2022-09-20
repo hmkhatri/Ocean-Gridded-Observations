@@ -10,3 +10,9 @@ The followig datasets are considered,
       https://climatedataguide.ucar.edu/climate-data/corev2-air-sea-surface-fluxes
 
 Both the above datasets provide monthly diagnostics on 1 deg x 1 deg grid.
+
+Additionally, following datasets could be used
+1. OAFLUX: Objectively analyzed air-sea fluxes for the global oceans
+   https://climatedataguide.ucar.edu/climate-data/oaflux-objectively-analyzed-air-sea-fluxes-global-oceans
+
+
