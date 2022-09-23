@@ -1,4 +1,4 @@
-Gridded Datasets created using ocean observations (or ocean reanalysis) are analysed in the repository. The scripts are test purposes only.
+Gridded Datasets created using ocean observations (or ocean reanalysis) are analysed in the repository. The scripts are for test purposes only.
 
 The followig datasets are considered,
 1. Met Office EN4 dataset (gridded T/S global, 1900-Present)
